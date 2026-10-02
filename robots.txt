@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-9fe4fa1d42.qingtongxiaai.cn/sitemap.xml
